@@ -19,7 +19,7 @@
 
 #¡Hola, soy 6_bloq o Ignacio! 👋
 
-- 🌱 Actualmente estoy estuduciando Ciberseguridad (Pentesting)
+- 🌱 Actualmente estoy estudiando Ciberseguridad (Pentesting)
 - 💬 Pregúntame sobre, RolePlay, Backend, Diseño, Animación y Edición
 - ⚡ Dato curioso: Duermo mucho.
 
