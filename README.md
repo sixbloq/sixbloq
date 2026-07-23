@@ -70,11 +70,11 @@ Soy un desarrollador de software apasionado por la tecnología, la programación
 |---|---|
 | Lua | 🟩🟩🟩🟩⬜ Intermedio-Avanzado |
 | Python | 🟩🟩🟩🟩⬜ Intermedio-Avanzado |
-| JavaScript | 🟩🟩🟩⬜⬜ Básico-Intermedio |
 | Bash | 🟩🟩🟩🟩⬜ Intermedio-Avanzado |
 | Realidad Virtual (Unity/Unreal) | 🟩🟩🟩⬜⬜ Básico - Intermedio |
 | Bases de datos | 🟩🟩🟩⬜⬜ Básico - Intermedio |
-| C++ | 🟩🟩🟩⬜⬜ Básico - Intermedio |
+| C++ | 🟩🟩🟩⬜⬜ Básico - Intermedio 
+| JavaScript | 🟩🟩🟩⬜⬜ Básico-Intermedio |
 | Node.js | 🟩🟩⬜⬜⬜ Básico |
 | Pentesting (Kali/BlackArch) | 🟩🟩⬜⬜⬜ Básico |
 
