@@ -62,7 +62,23 @@ Soy un desarrollador de software apasionado por la tecnología, la programación
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=flat-square&logo=unrealengine&logoColor=white)
 ![Meta Quest](https://img.shields.io/badge/-Meta%20Quest-000000?style=flat-square&logo=meta&logoColor=white)
 ![OpenXR](https://img.shields.io/badge/-OpenXR-000000?style=flat-square&logo=khronosgroup&logoColor=white)
+![VRChat](https://img.shields.io/badge/-VRChat-111111?style=flat-square&logo=vrchat&logoColor=white)
+![Udon](https://img.shields.io/badge/-Udon-6C4AB6?style=flat-square)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+
+- Creación y setup de **avatares para VRChat**
+- Scripting básico en **Udon** (VRChat)
+
+## 🎮 FiveM / GTA RP
+
+![Lua](https://img.shields.io/badge/-FiveM%20Scripting-FF6600?style=flat-square&logo=lua&logoColor=white)
+![ESX](https://img.shields.io/badge/-ESX-000000?style=flat-square)
+![QBCore](https://img.shields.io/badge/-QBCore-1D3557?style=flat-square)
+![QBox](https://img.shields.io/badge/-QBox-457B9D?style=flat-square)
+
+- Scripting de recursos para **FiveM**
+- Frameworks: **ESX**, **QBCore**, **QBox**
+- **Mapping** de mapas/interiores para servidores RP
 
 ## 📈 Nivel de habilidades
 
@@ -73,11 +89,12 @@ Soy un desarrollador de software apasionado por la tecnología, la programación
 | Bash | 🟩🟩🟩🟩⬜ Intermedio-Avanzado |
 | Realidad Virtual (Unity/Unreal) | 🟩🟩🟩⬜⬜ Básico - Intermedio |
 | Bases de datos | 🟩🟩🟩⬜⬜ Básico - Intermedio |
-| C++ | 🟩🟩🟩⬜⬜ Básico - Intermedio 
+| C++ | 🟩🟩🟩⬜⬜ Básico - Intermedio |
 | JavaScript | 🟩🟩🟩⬜⬜ Básico-Intermedio |
 | Node.js | 🟩🟩⬜⬜⬜ Básico |
 | Pentesting (Kali/BlackArch) | 🟩🟩⬜⬜⬜ Básico |
 
+> 📝 Nota: ajusta las barras según tu nivel real en cada una.
 
 ## 📊 Estadísticas de GitHub
 
