@@ -56,6 +56,29 @@ Soy un desarrollador de software apasionado por la tecnología, la programación
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+## 🕶️ Realidad Virtual
+
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=flat-square&logo=unrealengine&logoColor=white)
+![Meta Quest](https://img.shields.io/badge/-Meta%20Quest-000000?style=flat-square&logo=meta&logoColor=white)
+![OpenXR](https://img.shields.io/badge/-OpenXR-000000?style=flat-square&logo=khronosgroup&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+
+## 📈 Nivel de habilidades
+
+| Área | Habilidad |
+|---|---|
+| Lua | 🟩🟩🟩🟩⬜ Intermedio-Avanzado |
+| Python | 🟩🟩🟩🟩⬜ Intermedio-Avanzado |
+| JavaScript | 🟩🟩🟩⬜⬜ Básico-Intermedio |
+| Bash | 🟩🟩🟩🟩⬜ Intermedio-Avanzado |
+| Realidad Virtual (Unity/Unreal) | 🟩🟩🟩⬜⬜ Básico - Intermedio |
+| Bases de datos | 🟩🟩🟩⬜⬜ Básico - Intermedio |
+| C++ | 🟩🟩🟩⬜⬜ Básico - Intermedio |
+| Node.js | 🟩🟩⬜⬜⬜ Básico |
+| Pentesting (Kali/BlackArch) | 🟩🟩⬜⬜⬜ Básico |
+
+
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
