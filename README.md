@@ -94,7 +94,6 @@ Soy un desarrollador de software apasionado por la tecnología, la programación
 | Node.js | 🟩🟩⬜⬜⬜ Básico |
 | Pentesting (Kali/BlackArch) | 🟩🟩⬜⬜⬜ Básico |
 
-> 📝 Nota: ajusta las barras según tu nivel real en cada una.
 
 ## 📊 Estadísticas de GitHub
 
