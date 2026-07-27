@@ -1,3 +1,5 @@
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sixbloq)](https://git.io/streak-stats)
+
 <div align="center">
   <br/>
   <a href="https://git.io/typing-svg">
